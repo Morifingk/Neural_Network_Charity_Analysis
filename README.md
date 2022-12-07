@@ -53,3 +53,4 @@ The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the
 
 [AlphabetSoupCharity.ipynb - Colaboratory.pdf](https://github.com/Morifingk/Neural_Network_Charity_Analysis/files/10179700/AlphabetSoupCharity.ipynb.-.Colaboratory.pdf)
 
+##By:Morifing Koné
