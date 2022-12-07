@@ -45,4 +45,5 @@ The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the
 
 ##Below is a screen shot of everything that I have worked on regards to this project. I used Google Colab instead of Jupyter notebook because of complications that tensorflow presented with my newer model macbook and jupyter notebook.
 
+[AlphabetSoupCharity.ipynb - Colaboratory.pdf](https://github.com/Morifingk/Neural_Network_Charity_Analysis/files/10179700/AlphabetSoupCharity.ipynb.-.Colaboratory.pdf)
 
