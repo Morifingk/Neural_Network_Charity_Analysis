@@ -1,9 +1,15 @@
 # Neural_Network_Charity_Analysis
 Neural Networks and Deep Learning Models
 
+
+##Tools 
+Google Colab
+Python
+sklearn
+
 ## Environment
 Tensorflow v. 2.4.1
-
+Pandas
 ## Overview 
 1. Compare the differences between the traditional machine learning classification and regression models and the neural network models.
 2. Describe the perceptron model and its components.
@@ -43,7 +49,7 @@ Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dro
 ### Summary:   
 The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.
 
-##Below is a screen shot of everything that I have worked on regards to this project. I used Google Colab instead of Jupyter notebook because of complications that tensorflow presented with my newer model macbook and jupyter notebook.
+##Below is a pdf of everything that I have worked on regards to this project. I used Google Colab instead of Jupyter notebook because of complications that tensorflow presented with my newer model macbook and jupyter notebook.
 
 [AlphabetSoupCharity.ipynb - Colaboratory.pdf](https://github.com/Morifingk/Neural_Network_Charity_Analysis/files/10179700/AlphabetSoupCharity.ipynb.-.Colaboratory.pdf)
 
